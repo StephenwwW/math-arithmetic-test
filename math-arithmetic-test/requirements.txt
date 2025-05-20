@@ -1,0 +1,2 @@
+# 本專案僅需 Python 3 及 tkinter（標準庫）
+tkinter 
