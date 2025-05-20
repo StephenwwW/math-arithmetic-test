@@ -4,6 +4,11 @@
 
 本專案是一個以 Tkinter 製作的數學四則運算練習程式，支援自訂倒數秒數與題目難度，適合學生或一般使用者進行心算訓練。
 
+## 預覽畫面 | Screenshot
+
+![四則運算練習器預覽圖](math-arithmetic-test/images/screenshot.png)  
+_▲ 程式主畫面：可產生隨機生成四則運算題目_
+
 ## 安裝方式
 
 1. 下載或 clone 此專案。
