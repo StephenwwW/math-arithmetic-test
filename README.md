@@ -7,7 +7,7 @@
 ## 預覽畫面 | Screenshot
 
 ![四則運算練習器預覽圖](math-arithmetic-test/images/screenshot.png)  
-_▲ 程式主畫面：可產生隨機生成四則運算題目_
+_▲ 程式主畫面：可隨機生成四則運算題目_
 
 ## 安裝方式
 
